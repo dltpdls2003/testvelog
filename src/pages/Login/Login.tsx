@@ -1,5 +1,5 @@
 import styled from "styled-components";
-function Maintrend() {
+function Login() {
     return(
         <S.Wrapper>
             
@@ -7,7 +7,7 @@ function Maintrend() {
     )
 
 }
-export default Maintrend
+export default Login
 
 const Wrapper = styled.div`
    
