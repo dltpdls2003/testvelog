@@ -2,7 +2,7 @@ import styled from "styled-components";
 function Maintrend() {
     return(
         <S.Wrapper>
-            
+            최신트렌드
         </S.Wrapper>
     )
 
